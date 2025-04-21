@@ -1,2 +1,2 @@
-List of LAB Excercised from ee315
+List of LAB Exercises from ee315
 # Further-VDHL-Exercises
